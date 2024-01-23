@@ -19,6 +19,22 @@ export const menuItemsData = [
           title: 'PONDT',
           url: 'pondt',
         },
+        {
+          title: 'KABEL-OPTIKA',
+          url: 'kabel-optika',
+        },
+        {
+          title: 'STROJNA MEHANIKA',
+          url: 'strojnamehanika',
+        },
+        {
+          title: 'MGK STROJOBRAVAR',
+          url: 'mgkstrojobravar',
+        },
+        {
+          title: 'SKELA PROJEKT',
+          url: 'skelaprojekt',
+        },
       ],
     },
     {
@@ -26,12 +42,12 @@ export const menuItemsData = [
       url: '/projects2024',
       submenu: [
         {
-          title: 'MGK STROJOBRAVAR',
-          url: 'mgk-strojobravar',
+          title: 'TBD',
+          url: 'tbd',
         },
         {
-          title: 'SKELA PROJEKT',
-          url: 'skelaprojekt',
+          title: 'TBD',
+          url: 'tbd',
         },
       ],
     },
