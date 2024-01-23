@@ -1,5 +1,6 @@
 {
   "name": "eufondovi",
+  "homepage": "http://eufondovi.eu.hr",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
