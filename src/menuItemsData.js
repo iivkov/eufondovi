@@ -5,7 +5,7 @@ export const menuItemsData = [
     },
     {
       title: 'Projekti 2023.',
-      url: '/projects2023',
+      // url: '/projects2023',
       submenu: [
         {
           title: 'MEDO GRUPA',
