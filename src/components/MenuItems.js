@@ -33,7 +33,7 @@ const MenuItems = ({ items }) => {
       };
 
   return (
-    <li className="menu-items" ref={ref} onMouseEnter={onMouseEnter}
+    <div className="menu-items" ref={ref} onMouseEnter={onMouseEnter}
     onMouseLeave={onMouseLeave} onClick={closeDropdown}>
       {items.submenu ? (
         <>
@@ -51,7 +51,7 @@ const MenuItems = ({ items }) => {
       ) : (
         <Link to={items.url}>{items.title}</Link>
       )}
-    </li>
+    </div>
   );
 };
 
