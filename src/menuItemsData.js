@@ -39,7 +39,7 @@ export const menuItemsData = [
     },
     {
       title: 'Projekti 2024.',
-      url: '/projects2024',
+      // url: '/projects2024',
       submenu: [
         {
           title: 'TBD',

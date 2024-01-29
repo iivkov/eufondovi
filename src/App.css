@@ -11,7 +11,8 @@ body {
 header {
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.07), 0 1px 2px 0 rgba(0, 0, 0, 0.05);
   background-color: #0d2b61;
-  color: green;
+  color: white;
+  height: 80px;
 }
 
 .nav-area {
@@ -20,8 +21,8 @@ header {
   max-width: 1200px;
   margin: 0 auto;
   padding: 10px 20px;
-  /* background-color: beige; */
   justify-content: space-between;
+  height: 100%;
 }
 
 .logo {
@@ -29,7 +30,6 @@ header {
   font-size: 25px;
   color: inherit;
   margin-right: 20px;
-  /* background-color: darkmagenta; */
 }
 
 /* menu on desktop */
@@ -38,12 +38,11 @@ header {
   align-items: center;
   flex-wrap: wrap;
   list-style: none;
-  /* background-color: aqua; */
 }
 
 .desktop-nav .menu-items {
   position: relative;
-  font-size: 14px;
+  font-size: 18px;
 }
 
 .desktop-nav .menu-items a {
@@ -76,7 +75,7 @@ header {
 
 .desktop-nav .menu-items a:hover,
 .desktop-nav .menu-items button:hover {
-  background-color: #f2f2f2;
+  background-color: red;
 }
 
 .desktop-nav .arrow::after {
@@ -100,7 +99,7 @@ header {
   min-width: 10rem;
   padding: 0.5rem 0;
   list-style: none;
-  background-color: #fff;
+  background-color: #0d2b61;
   border-radius: 0.5rem;
   display: none;
 }
@@ -151,7 +150,7 @@ header {
     z-index: 9999;
     min-width: 12rem;
     padding: 0.5rem 0;
-    background-color: #fff;
+    background-color: #0d2b61;
     border-radius: 0.5rem;
   }
 
@@ -181,7 +180,7 @@ header {
 
   .mobile-nav .menu-items a:hover,
   .mobile-nav .menu-items button:hover {
-    background-color: #f2f2f2;
+    background-color: red;
   }
 
   .mobile-nav .arrow::after {
@@ -220,11 +219,33 @@ header {
 .content {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 3rem 20px;
+  padding: 2rem 15px;
+  text-align: justify;
 }
 
 .content h1 {
   font-size: 2rem;
+  text-align: center;
+}
+
+.content h2 {
+  text-align: center;
+  padding-top: 0.5rem;
+}
+
+.content p {
+  padding-top: 1rem;
+  font-size: 20px;
+}
+
+.main-container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.box {
+  width: 50%;
 }
 
 #error-page {
@@ -235,4 +256,27 @@ header {
   align-items: center;
   height: 100vh;
   gap: 20px;
+}
+
+footer {
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.07), 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  background-color: #0d2b61;
+  color: white;
+  height: 200px;
+  display: flex;
+  /* position: relative; */
+  align-items: center;
+  font-size: 20px;
+}
+
+.copyright-area {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
 }
