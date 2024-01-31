@@ -1,52 +1,101 @@
 [
     {
       "id": 1,
-      "naziv": "NOVI RAZVOJ U PETRINJI MEDO GRUPA d.o.o.",
-      "oznaka": "KK.08.2.1.16.0147",
+      "naziv_projekta": "NOVI RAZVOJ U PETRINJI MEDO GRUPA d.o.o.",
+      "kod_projekta": "KK.08.2.1.16.0147",
+      "naziv_poziva": "Podrška razvoju poduzetništva u gradu Petrinji",
       "tvrtka": "MEDO GRUPA d.o.o.",
-      "web": "https://medogrupa.hr/"
+      "web": "https://medogrupa.hr/",
+      "ukupni_prihvatljivi_troskovi": "212.549,87",
+      "ukupna_bespovratna_sredstva": "180.667,39",
+      "pocetak_provedbe": "21.04.2022.",
+      "kraj_provedbe": "19.10.2023.",
+      "trajanje_provedbe": "18",
+      "opis": "Cilj ovog projekta je održiva fizička, socijalna i gospodarska regeneracija grada Petrinje, s ciljem smanjenja socijalnih nejednakosti, isključenosti i siromaštva. Nabavom novih roba i/ili usluga, Prijavitelj će povećati svoju konkurentnost i održivost poslovanja, proizvodne kapacitete te otvoriti nova tržišta. Glavna aktivnost projekta odnosi se na ulaganje u materijalnu imovinu u sklopu koje se nabavlja mini bager s priključcima, tandem valjak. Ostvarivanjem te nabave Prijavitelj će povećati svoje kapacitete za pružanje usluga, očuvat će se postojeća radna mjesta, otvorit će se nova radna mjesta, povećat će se prihod Prijavitelja, konkurentnost na postojećem i novom mikro i makro tržištu. Djelatnici tvrtke će steći nova znanja povezana s korištenjem novih roba koje se nabavljaju."
     },
     {
       "id": 2,
-      "naziv": "NOVI RAZVOJ U PETRINJI MALEKINUŠIĆ d.o.o.",
-      "oznaka": "KK.08.2.1.16.0142",
+      "naziv_projekta": "NOVI RAZVOJ U PETRINJI MALEKINUŠIĆ d.o.o.",
+      "kod_projekta": "KK.08.2.1.16.0142",
+      "naziv_poziva": "Podrška razvoju poduzetništva u gradu Petrinji",
       "tvrtka": "MALEKINUŠIĆ d.o.o.",
-      "web": "https://malekinusic.hr"
+      "web": "https://malekinusic.hr",
+      "ukupni_prihvatljivi_troskovi": "207.850,55",
+      "ukupna_bespovratna_sredstva": "176.672,97",
+      "pocetak_provedbe": "22.04.2022.",
+      "kraj_provedbe": "19.10.2023.",
+      "trajanje_provedbe": "18",
+      "opis": "Svrha ovog projektnog prijedloga je održiva fizička, socijalna i gospodarska regeneracija grada Petrinje s ciljem smanjenja socijalnih nejednakosti, isključenosti i siromaštva, što bi se ostvarilo jer Prijavitelj ovim projektnim prijedlogom nabavlja novu robu i/ili uslugu u svrhu povećanja svoje konkurentnosti i produktivnosti rada. Prijavitelj bi završetkom projekta stvorio pozitivan efekt na lokalnu zajednicu, jer bi svoje djelovanje ostvario na nova mikro i makro tržišta. Prijavitelj će otvoriti nova tržišta i povećat će mu se prihod. Projekt je usmjeren na djelatnike Prijavitelja, kupce i dobavljače kao ciljne skupine projekta, ali i sve građane Republike Hrvatske i to upravo kroz očuvanje postojećih radnih mjesta i otvaranje novih. Projekt vodi računa o zaštiti okoliša."
     },
     {
       "id": 3,
-      "naziv": "NOVI RAZVOJ U PETRINJI PONDT d.o.o.",
-      "oznaka": "KK.08.2.1.16.0201",
+      "naziv_projekta": "NOVI RAZVOJ U PETRINJI PONDT d.o.o.",
+      "kod_projekta": "KK.08.2.1.16.0201",
+      "naziv_poziva": "Podrška razvoju poduzetništva u gradu Petrinji",
       "tvrtka": "PONDT d.o.o.",
-      "web": "https://pondt.hr"
+      "web": "https://pondt.hr",
+      "ukupni_prihvatljivi_troskovi": "212.180,64",
+      "ukupna_bespovratna_sredstva": "180.353,54",
+      "pocetak_provedbe": "22.04.2022.",
+      "kraj_provedbe": "19.10.2023.",
+      "trajanje_provedbe": "18",
+      "opis": "Cilj ovog projekta je održiva fizička, socijalna i gospodarska regeneracija grada Petrinje, s ciljem smanjenja socijalnih nejednakosti, isključenosti i siromaštva. Nabavom novih roba i usluga, korisnik će povećati svoju konkurentnost i održivost poslovanja i proizvodne kapacitete. Prijavitelj će otvoriti nova tržišta i povećat će mu se prihod. U sklopu aktivnosti ulaganje u materijalnu imovinu nabavlja se ultrazvučni uređaj za ispitivanje zavarenih spojeva, automatski procesor za razvijanje radiograma mobile, RTG uređaj za ispitivanje zavarenih spojeva, uređaj za vizualno ispitivanje zavarenih spojeva, tračna pila za metal. Provedbom aktivnosti ulaganja Korisnik će povećati svoje kapacitete za pružanje usluga, očuvat će se postojeća radna mjesta,otvorit će se nova radna mjesta, povećat će se prihod Prijavitelja, konkurentnost na postojećem i novom mikro i makro tržištu. Kroz aktivnost Marketing i promocija proizvoda i usluga Prijavitelj će povećati svoju vidljivost na mikro i makro tržištu, kao i na društvenim mrežama, a provedbom aktivnosti edukacije i stručnog osposobljavanja djelatnici Korisnika će steći nova znanja povezana s korištenjem novih roba koje se nabavljaju."
     },
     {
       "id": 4,
-      "naziv": "NOVI RAZVOJ U PETRINJI KABEL-OPTIKA d.o.o.",
-      "oznaka": "KK.08.2.1.16.0148",
+      "naziv_projekta": "NOVI RAZVOJ U PETRINJI KABEL-OPTIKA d.o.o.",
+      "kod_projekta": "KK.08.2.1.16.0148",
+      "naziv_poziva": "Podrška razvoju poduzetništva u gradu Petrinji",
       "tvrtka": "KABEL-OPTIKA d.o.o.",
-      "web": "https://kabel-optika.hr"
+      "web": "https://kabel-optika.hr",
+      "ukupni_prihvatljivi_troskovi": "209.364,52",
+      "ukupna_bespovratna_sredstva": "177.959,84",
+      "pocetak_provedbe": "04.2022.",
+      "kraj_provedbe": "12.2023.",
+      "trajanje_provedbe": "20",
+      "opis": "Nabavom novih roba, Prijavitelj će povećati svoju konkurentnost i održivost poslovanja te proizvodne kapacitete. Nabavlja se mini bager s priključcima te Tandem valjak. Također obuhvaća troškove transporta, montaže i stavljanja u probni rad, te edukacije za rad na siguran način, stručno osposobljavanje i stjecanje novih znanja i vještina djelatnika vezano uz robu koja se nabavlja."
     },
     {
       "id": 5,
-      "naziv": "NOVI RAZVOJ U PETRINJI STROJNA MEHANIKA d.o.o.",
-      "oznaka": "KK.08.2.1.16.0133",
+      "naziv_projekta": "NOVI RAZVOJ U PETRINJI STROJNA MEHANIKA d.o.o.",
+      "kod_projekta": "KK.08.2.1.16.0133",
+      "naziv_poziva": "Podrška razvoju poduzetništva u gradu Petrinji",
       "tvrtka": "STROJNA MEHANIKA d.o.o.",
-      "web": "https://strojnamehanika.hr"
+      "web": "https://strojnamehanika.hr",
+      "ukupni_prihvatljivi_troskovi": "207.246,00",
+      "ukupna_bespovratna_sredstva": "176.159,10",
+      "pocetak_provedbe": "NN.NN.NNNN.",
+      "kraj_provedbe": "NN.NN.NNNN.",
+      "trajanje_provedbe": "NN",
+      "opis": "Aktivnosti projekta su nabava novih roba kojima Prijavitelj planira povećati svoju konkurentnost te otvoriti nova tržišta. Nabavlja se mini damper te se ulaže u marketing i promociju proizvoda, odnosno planiraju se i edukacije djelatnika povezane sa aktivnostima projekta."
     },
     {
       "id": 6,
-      "naziv": "NOVI RAZVOJ U PETRINJI MGK STROJOBRAVAR OBRT",
-      "oznaka": "KK.08.2.1.16.0090",
+      "naziv_projekta": "NOVI RAZVOJ U PETRINJI MGK STROJOBRAVAR OBRT",
+      "kod_projekta": "KK.08.2.1.16.0090",
+      "naziv_poziva": "Podrška razvoju poduzetništva u gradu Petrinji",
       "tvrtka": "MGK STROJOBRAVAR",
-      "web": "https://mgk-strojobravar.hr"
+      "web": "https://mgk-strojobravar.hr",
+      "ukupni_prihvatljivi_troskovi": "210.554,78",
+      "ukupna_bespovratna_sredstva": "178.971,56",
+      "pocetak_provedbe": "NN.NN.NNNN.",
+      "kraj_provedbe": "NN.NN.NNNN.",
+      "trajanje_provedbe": "NN",
+      "opis": "Kroz projekt planira se nabava novih roba, kombinirane škare i probijačica, škare hidraulične, apkant preša te CNC plazma rezač. Ostvarivanjem te nabave Prijavitelj će povećati svoje kapacitete za pružanje usluga, očuvat će se postojeća radna mjesta, otvorit će se nova radna mjesta, povećat će se prihod Prijavitelja, konkurentnost na postojećem i novom mikro i makro tržištu. Djelatnici Prijavitelja će steći nova znanja povezana s korištenjem novih roba koje se nabavljaju."
     },
     {
       "id": 7,
-      "naziv": "NOVI RAZVOJ U PETRINJI SKELA PROJEKT d.o.o.",
-      "oznaka": "KK.08.2.1.16.0176",
+      "naziv_projekta": "NOVI RAZVOJ U PETRINJI SKELA PROJEKT d.o.o.",
+      "kod_projekta": "KK.08.2.1.16.0176",
+      "naziv_poziva": "Podrška razvoju poduzetništva u gradu Petrinji",
       "tvrtka": "SKELA PROJEKT d.o.o.",
-      "web": "https://skela-projekt.hr"
+      "web": "https://skela-projekt.hr",
+      "ukupni_prihvatljivi_troskovi": "204.074,10",
+      "ukupna_bespovratna_sredstva": "173.462,98",
+      "pocetak_provedbe": "NN.NN.NNNN.",
+      "kraj_provedbe": "NN.NN.NNNN.",
+      "trajanje_provedbe": "NN",
+      "opis": "Cilj ovog projekta je održiva fizička, socijalna i gospodarska regeneracija grada Petrinje, s ciljem smanjenja socijalnih nejednakosti, isključenosti i siromaštva. Nabavom novih roba i/ili usluga, Prijavitelj će povećati svoju konkurentnost i održivost poslovanja te proizvodne kapacitete. Prijavitelj će otvoriti nova tržišta i povećat će mu se prihod. Projekt je usmjeren na djelatnike Prijavitelja, kupce i dobavljače kao ciljne skupine projekta, ali i sve građane Republike Hrvatske i to upravo kroz očuvanje postojećih radnih mjesta i otvaranje novih. Projekt vodi računa o zaštiti okoliša. Osnovna aktivnost projekta je ulaganje u materijalnu opremu: regalno dizalo za građevinarstvo, građevinska skela komplet."
     }
   ]
   

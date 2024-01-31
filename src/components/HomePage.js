@@ -39,7 +39,7 @@ const HomePage = () => {
                 <tbody>
                     {data.map(item => (
                     <tr key={item.id}>
-                        <td>{item.naziv}</td>
+                        <td>{item.naziv_projekta}</td>
                         <td><a href={item.web} target="_blank" rel="noopener noreferrer">{getAddressFromUrl(item.web)}</a></td>
                     </tr>
                     ))}
