@@ -9,7 +9,7 @@ body {
 }
 
 header {
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.07), 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  /* box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.07), 0 1px 2px 0 rgba(0, 0, 0, 0.05); */
   background-color: #0d2b61;
   color: white;
   height: 80px;
@@ -92,11 +92,11 @@ header {
   position: absolute;
   right: 0;
   left: auto;
-  box-shadow: 0 10px 15px -3px rgba(46, 41, 51, 0.08),
-    0 4px 6px -2px rgba(71, 63, 79, 0.16);
+  /* box-shadow: 0 10px 15px -3px rgba(46, 41, 51, 0.08),
+    0 4px 6px -2px rgba(71, 63, 79, 0.16); */
   font-size: 0.875rem;
   z-index: 9999;
-  min-width: 10rem;
+  min-width: 14rem;
   padding: 0.5rem 0;
   list-style: none;
   background-color: #0d2b61;
@@ -145,8 +145,8 @@ header {
     position: absolute;
     top: 50px;
     right: 20px;
-    box-shadow: 0 10px 15px -3px rgba(46, 41, 51, 0.08),
-      0 4px 6px -2px rgba(71, 63, 79, 0.16);
+    /* box-shadow: 0 10px 15px -3px rgba(46, 41, 51, 0.08),
+      0 4px 6px -2px rgba(71, 63, 79, 0.16); */
     z-index: 9999;
     min-width: 12rem;
     padding: 0.5rem 0;
@@ -216,37 +216,73 @@ header {
 }
 
 /* page content */
-.content {
+.main_content {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 2rem 15px;
+  padding: 3rem 20px;
   text-align: justify;
 }
 
-.content h1 {
+.main_content h1 {
   font-size: 2rem;
   text-align: center;
 }
 
-.content h2 {
+.main_content h2 {
   text-align: center;
   padding-top: 0.5rem;
 }
 
-.content p {
+.main_content p {
   padding-top: 1rem;
   font-size: 20px;
 }
 
-.main-container {
+.main_content img {
+  padding-top: 0.5rem;
+}
+
+.container {
   width: 100%;
   display: flex;
   flex-wrap: wrap;
 }
 
 .box {
+  padding-top: 20px;
   width: 50%;
+  text-align: center;
 }
+
+@media (max-width: 767px) {
+  .box {
+    width: 100%; 
+  }
+}
+
+.table {
+  margin-top: 1rem;
+  width: 100%;
+  border-collapse: collapse;
+  overflow-x: auto;
+}
+td, th {
+  border: 1px solid #ddd;
+  padding: 1.5rem;
+  text-align: center;
+  word-wrap: break-word;
+}
+
+@media screen and (max-width: 767px) {
+  .table {
+    /* overflow-x: auto; */
+  }
+
+  td, th {
+    padding: 1.5rem;
+  }
+}
+
 
 #error-page {
   /* center content on the page */
@@ -259,7 +295,7 @@ header {
 }
 
 footer {
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.07), 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  /* box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.07), 0 1px 2px 0 rgba(0, 0, 0, 0.05); */
   background-color: #0d2b61;
   color: white;
   height: 200px;

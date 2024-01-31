@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "naziv": "NOVI RAZVOJ U PETRINJI MEDO GRUPA d.o.o.",
+      "oznaka": "KK.08.2.1.16.0147",
+      "tvrtka": "MEDO GRUPA d.o.o.",
+      "web": "https://medogrupa.hr/"
+    },
+    {
+      "id": 2,
+      "naziv": "NOVI RAZVOJ U PETRINJI MALEKINUŠIĆ d.o.o.",
+      "oznaka": "KK.08.2.1.16.0142",
+      "tvrtka": "MALEKINUŠIĆ d.o.o.",
+      "web": "https://malekinusic.hr"
+    },
+    {
+      "id": 3,
+      "naziv": "NOVI RAZVOJ U PETRINJI PONDT d.o.o.",
+      "oznaka": "KK.08.2.1.16.0201",
+      "tvrtka": "PONDT d.o.o.",
+      "web": "https://pondt.hr"
+    },
+    {
+      "id": 4,
+      "naziv": "NOVI RAZVOJ U PETRINJI KABEL-OPTIKA d.o.o.",
+      "oznaka": "KK.08.2.1.16.0148",
+      "tvrtka": "KABEL-OPTIKA d.o.o.",
+      "web": "https://kabel-optika.hr"
+    },
+    {
+      "id": 5,
+      "naziv": "NOVI RAZVOJ U PETRINJI STROJNA MEHANIKA d.o.o.",
+      "oznaka": "KK.08.2.1.16.0133",
+      "tvrtka": "STROJNA MEHANIKA d.o.o.",
+      "web": "https://strojnamehanika.hr"
+    },
+    {
+      "id": 6,
+      "naziv": "NOVI RAZVOJ U PETRINJI MGK STROJOBRAVAR OBRT",
+      "oznaka": "KK.08.2.1.16.0090",
+      "tvrtka": "MGK STROJOBRAVAR",
+      "web": "https://mgk-strojobravar.hr"
+    },
+    {
+      "id": 7,
+      "naziv": "NOVI RAZVOJ U PETRINJI SKELA PROJEKT d.o.o.",
+      "oznaka": "KK.08.2.1.16.0176",
+      "tvrtka": "SKELA PROJEKT d.o.o.",
+      "web": "https://skela-projekt.hr"
+    }
+  ]
+  

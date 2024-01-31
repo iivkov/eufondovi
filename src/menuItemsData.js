@@ -29,11 +29,11 @@ export const menuItemsData = [
         },
         {
           title: 'MGK STROJOBRAVAR',
-          url: 'mgkstrojobravar',
+          url: 'mgk-strojobravar',
         },
         {
           title: 'SKELA PROJEKT',
-          url: 'skelaprojekt',
+          url: 'skela-projekt',
         },
       ],
     },

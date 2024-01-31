@@ -1,29 +1,62 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+// import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
-import Root from './routes/root';
-import MedoGrupa from "./routes/medogrupa";
-import Home from './routes/home';
-// import Services from "./routes/services";
-// import WebDesign from "./routes/web-design";
+import RootPage from './components/RootPage';
+import HomePage from './components/HomePage';
+import MedoPage from "./components/companies/MedoPage";
+import MalekinusicPage from './components/companies/MalekinusicPage';
+import PondtPage from './components/companies/PondtPage';
+import KabelOptikaPage from './components/companies/KabelOptikaPage';
+import StrojnaMehanikaPage from './components/companies/StrojnaMehanikaPage';
+import MGKStrojobravarPage from './components/companies/MGKStrojobravarPage';
+import SkelaProjektPage from './components/companies/SkelaProjektPage';
+import TBDPage from './components/companies/TBDPage';
 
 const router = createBrowserRouter([
   {
-    element: <Root />,
+    element: <RootPage />,
     // errorElement: <ErrorPage />,
     children: [
       {
         path: "/",
-        element: <Home />,
+        element: <HomePage />,
       },
       {
         path: "medogrupa",
-        element: <MedoGrupa />,
+        element: <MedoPage />,
+      },
+      {
+        path: "malekinusic",
+        element: <MalekinusicPage />,
+      },
+      {
+        path: "pondt",
+        element: <PondtPage />,
+      },
+      {
+        path: "kabel-optika",
+        element: <KabelOptikaPage />,
+      },
+      {
+        path: "strojnamehanika",
+        element: <StrojnaMehanikaPage />,
+      },
+      {
+        path: "mgk-strojobravar",
+        element: <MGKStrojobravarPage />,
+      },
+      {
+        path: "skela-projekt",
+        element: <SkelaProjektPage />,
+      },
+      {
+        path: "tbd",
+        element: <TBDPage />,
       },
     ],
   },
