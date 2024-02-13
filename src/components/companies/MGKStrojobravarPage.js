@@ -10,9 +10,11 @@ const MGKStrojobravarPage = () => {
         <h2>Naziv poziva: Podrška razvoju poduzetništva u gradu Petrinji</h2>
         <div className="container">
         <img src={Petrinja} alt="Slika Petrinje." style={{ width: '100%', height: 'auto' }} />
-            <p>Kroz projekt planira se nabava novih roba, kombinirane škare i probijačica, škare hidraulične, apkant preša te CNC plazma rezač. 
-                Ostvarivanjem te nabave Prijavitelj će povećati svoje kapacitete za pružanje usluga, očuvat će se postojeća radna mjesta, otvorit će se nova radna mjesta, povećat će se prihod Prijavitelja, konkurentnost na postojećem i novom mikro i makro tržištu. 
-                Djelatnici Prijavitelja će steći nova znanja povezana s korištenjem novih roba koje se nabavljaju.</p>
+        <p>Cilj ovog projekta je održiva fizička, socijalna i gospodarska regeneracija grada Petrinje, s ciljem smanjenja socijalnih nejednakosti, isključenosti i siromaštva. 
+                Nabavom novih roba i/ili usluga, Prijavitelj će povećati svoju: konkurentnost i održivost poslovanja i proizvodne kapacitete.
+                Prijavitelj će otvoriti nova tržišta i povećat će mu se prihod. 
+                Projekt je usmjeren na djelatnike Prijavitelja, kupce i dobavljače kao ciljne skupine projekta, ali i sve građane Republike Hrvatske i to upravo kroz očuvanje postojećih radnih mjesta i otvaranje novih. 
+                Projekt vodi računa o zaštiti okoliša.</p>
             <div className="box">
                 <h3>Informacije o troškovima</h3>
                 <p>Ukupni prihvatljivi troškovi (EUR): 210.554,78</p>
@@ -20,9 +22,9 @@ const MGKStrojobravarPage = () => {
             </div>
             <div className="box">
                 <h3>Vrijeme provedbe</h3>
-                <p>Početak provedbe: NN.NN.NNNN.</p>
-                <p>Kraj provedbe: NN.NN.NNNN.</p>
-                <p>Trajanje provedbe (mjeseci): 18</p>
+                <p>Početak provedbe: 19.04.2022.</p>
+                <p>Kraj provedbe: 29.11.2023.</p>
+                <p>Trajanje provedbe (mjeseci): 20</p>
             </div>
         </div>
         <EUnoteProject />

@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-// import EUnoteSite from './EUnoteSite';
+import EUnoteSite from './EUnoteSite';
 
 const HomePage = () => {
     const [data, setData] = useState([]);
@@ -27,7 +27,7 @@ const HomePage = () => {
     
     return (
         <div className="main_content">
-        {/* <EUnoteSite /> */}
+        <EUnoteSite />
         <h1>Dobrodošli!</h1>
         <div className="container">
             <p>Ovo su neki od naših projekata...</p>

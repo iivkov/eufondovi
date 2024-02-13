@@ -8,7 +8,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
 import RootPage from './components/RootPage';
 import HomePage from './components/HomePage';
-import MedoPage from "./components/companies/MedoPage";
+import MedoGrupaPage from "./components/companies/MedoGrupaPage";
 import MalekinusicPage from './components/companies/MalekinusicPage';
 import PondtPage from './components/companies/PondtPage';
 import KabelOptikaPage from './components/companies/KabelOptikaPage';
@@ -28,7 +28,7 @@ const router = createBrowserRouter([
       },
       {
         path: "medogrupa",
-        element: <MedoPage />,
+        element: <MedoGrupaPage />,
       },
       {
         path: "malekinusic",
