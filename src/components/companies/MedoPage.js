@@ -1,4 +1,5 @@
 import React from "react";
+import EUnoteProject from '../EUnoteProject';
 import Petrinja from '../../assets/Petrinja.jpg';
 
 const MedoPage = () => {
@@ -26,6 +27,7 @@ const MedoPage = () => {
                 <p>Trajanje provedbe (mjeseci): 18</p>
             </div>
         </div>
+        <EUnoteProject />
     </div>
     );
 }

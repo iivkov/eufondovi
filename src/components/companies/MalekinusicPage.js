@@ -1,4 +1,5 @@
 import React from "react";
+import EUnoteProject from '../EUnoteProject';
 import Petrinja from '../../assets/Petrinja.jpg';
 
 const MalekinusicPage = () => {
@@ -21,11 +22,12 @@ const MalekinusicPage = () => {
             </div>
             <div className="box">
                 <h3>Vrijeme provedbe</h3>
-                <p>Početak provedbe: NN.NN.NNNN.</p>
-                <p>Kraj provedbe: NN.NN.NNNN.</p>
+                <p>Početak provedbe: 22.04.2022.</p>
+                <p>Kraj provedbe: 19.10.2023.</p>
                 <p>Trajanje provedbe (mjeseci): 18</p>
             </div>
         </div>
+        <EUnoteProject />
     </div>
     );
 }

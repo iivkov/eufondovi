@@ -1,4 +1,5 @@
 import React from "react";
+import EUnoteProject from '../EUnoteProject';
 import Petrinja from '../../assets/Petrinja.jpg';
 
 const TBDPage = () => {
@@ -22,6 +23,7 @@ const TBDPage = () => {
                 <p>Trajanje provedbe (mjeseci): NN</p>
             </div>
         </div>
+        <EUnoteProject />
     </div>
     );
 }

@@ -249,7 +249,7 @@ header {
 }
 
 .box {
-  padding-top: 20px;
+  padding-top: 30px;
   width: 50%;
   text-align: center;
 }
@@ -316,4 +316,91 @@ footer {
 a {
   text-decoration: none;
   color: inherit;
+}
+
+.EU-note {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  /* width: 100%; */
+  padding: 20px;
+  margin-top: 20px;
+  /* margin-bottom: 15px; */
+  border: 1px solid #ccc;
+}
+  
+.image {
+  flex: 1;
+  margin: 10px;
+}
+  
+.image img {
+  max-width: 100%;
+  height: auto;
+}
+  
+.text {
+  margin-top: 10px;
+  text-align: center;
+  flex-basis: 100%;
+}
+
+#EU-site {
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.accessibility-menu {
+  position: fixed;
+  top: 85px;
+  left: 5px;
+  /* position: relative; */
+  /* display: inline-block; */
+  z-index: 1;
+}
+
+.accessibility-buttons {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: calc(100% + 10px); 
+  left: 0;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  opacity: 0; 
+  transition: opacity 0.3s ease-in-out, visibility 0.3s ease-in-out;
+  padding: 10px;
+}
+
+.accessibility-buttons.open {
+  visibility: visible; 
+  opacity: 1; 
+}
+
+.accessibility-icon {
+  position: relative; 
+  cursor: pointer;
+}
+
+.accessibility-menu.open .accessibility-icon {
+  z-index: 1;
+}
+
+.accessibility-buttons button {
+  margin-bottom: 5px;
+  background-color: #00000033;
+  color: black;
+  border: none;
+  height: 30px;
+  width: 150px;
+}
+
+.grayscale {
+  filter: grayscale(100%);
+}
+
+.high-contrast {
+  background-color: #0d2b61;
+  color: white;
 }

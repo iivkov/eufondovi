@@ -40,15 +40,15 @@ export const menuItemsData = [
     {
       title: 'Projekti 2024.',
       // url: '/projects2024',
-      submenu: [
-        {
-          title: 'TBD',
-          url: 'tbd',
-        },
-        {
-          title: 'TBD',
-          url: 'tbd',
-        },
-      ],
+      // submenu: [
+      //   {
+      //     title: 'TBD',
+      //     url: 'tbd',
+      //   },
+      //   {
+      //     title: 'TBD',
+      //     url: 'tbd',
+      //   },
+      // ],
     },
   ];
