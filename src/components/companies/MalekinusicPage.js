@@ -5,6 +5,7 @@ import Petrinja from '../../assets/Petrinja.jpg';
 const MalekinusicPage = () => {
   return (
     <div className="main_content">
+        <EUnoteProject />
         <h1>NOVI RAZVOJ U PETRINJI MALEKINUŠIĆ d.o.o.</h1>
         <h2>Kod projekta: KK.08.2.1.16.0142</h2>
         <h2>Naziv poziva: Podrška razvoju poduzetništva u gradu Petrinji</h2>

@@ -5,6 +5,7 @@ import Petrinja from '../../assets/Petrinja.jpg';
 const MedoPage = () => {
   return (
     <div className="main_content">
+        <EUnoteProject />
         <h1>NOVI RAZVOJ U PETRINJI MEDO GRUPA d.o.o.</h1>
         <h2>Kod projekta: KK.08.2.1.16.0147</h2>
         <h2>Naziv poziva: Podrška razvoju poduzetništva u gradu Petrinji</h2>

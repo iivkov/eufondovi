@@ -5,6 +5,7 @@ import Petrinja from '../../assets/Petrinja.jpg';
 const PondtPage = () => {
   return (
     <div className="main_content">
+        <EUnoteProject />
         <h1>NOVI RAZVOJ U PETRINJI PONDT d.o.o.</h1>
         <h2>Kod projekta: KK.08.2.1.16.0201</h2>
         <h2>Naziv poziva: Podrška razvoju poduzetništva u gradu Petrinji</h2>
@@ -17,7 +18,7 @@ const PondtPage = () => {
                 Kroz aktivnost Marketing i promocija proizvoda i usluga Prijavitelj će povećati svoju vidljivost na mikro i makro tržištu, kao i na društvenim mrežama, a provedbom aktivnosti edukacije i stručnog osposobljavanja djelatnici Korisnika će steći nova znanja povezana s korištenjem novih roba koje se nabavljaju.</p>
             <div className="box">
                 <h3>Informacije o troškovima</h3>
-                <p>Ukupni prihvatljivi troškovi (EUR): 212.180,64</p>
+                <p>Ukupna vrijednost projekta (EUR): </p>
                 <p>Ukupna bespovratna sredstva (EUR): 180.353,54</p>
             </div>
             <div className="box">
