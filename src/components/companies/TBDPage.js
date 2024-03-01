@@ -3,9 +3,11 @@ import EUnoteProject from '../EUnoteProject';
 import Petrinja from '../../assets/Petrinja.jpg';
 
 const TBDPage = () => {
+    const ime_tvrtke = "TBD";
+
   return (
     <div className="main_content">
-        <EUnoteProject />
+        <EUnoteProject ime_tvrtke={ime_tvrtke}/>
         <h1>NOVI RAZVOJ U PETRINJI TBD</h1>
         <h2>Kod projekta: KK.08.2.1.16.TBD</h2>
         <h2>Naziv poziva: Podrška razvoju poduzetništva u gradu Petrinji</h2>
@@ -14,7 +16,7 @@ const TBDPage = () => {
             <p>TBD...................................................................................................................................</p>
             <div className="box">
                 <h3>Informacije o troškovima</h3>
-                <p>Ukupni prihvatljivi troškovi (EUR): NNN.NN,NN</p>
+                <p>Ukupni prihvatljivi troškovi (EUR): NNN.NNN,NN</p>
                 <p>Ukupna bespovratna sredstva (EUR): NNN.NNN,NN</p>
             </div>
             <div className="box">
@@ -24,7 +26,7 @@ const TBDPage = () => {
                 <p>Trajanje provedbe (mjeseci): NN</p>
             </div>
         </div>
-        <EUnoteProject />
+        <EUnoteProject ime_tvrtke={ime_tvrtke}/>
     </div>
     );
 }

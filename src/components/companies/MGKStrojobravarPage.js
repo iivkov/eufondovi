@@ -3,9 +3,11 @@ import EUnoteProject from '../EUnoteProject';
 import Petrinja from '../../assets/Petrinja.jpg';
 
 const MGKStrojobravarPage = () => {
+    const ime_tvrtke = "MGK STROJOBRAVAR";
+
   return (
     <div className="main_content">
-        <EUnoteProject />
+        <EUnoteProject ime_tvrtke={ime_tvrtke}/>
         <h1>NOVI RAZVOJ U PETRINJI MGK STROJOBRAVAR OBRT</h1>
         <h2>Kod projekta: KK.08.2.1.16.0090</h2>
         <h2>Naziv poziva: Podrška razvoju poduzetništva u gradu Petrinji</h2>
@@ -28,7 +30,7 @@ const MGKStrojobravarPage = () => {
                 <p>Trajanje provedbe (mjeseci): 20</p>
             </div>
         </div>
-        <EUnoteProject />
+        <EUnoteProject ime_tvrtke={ime_tvrtke}/>
     </div>
     );
 }

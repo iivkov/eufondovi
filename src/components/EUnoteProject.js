@@ -4,7 +4,7 @@ import EU_logo from '../assets/EU_logo.png';
 import ESIF_logo from '../assets/ESIF_logo.png';
 import OPKK_logo from '../assets/OPKK_logo.png';
 
-const EUnoteProject = () => {
+const EUnoteProject = (props) => {
 
   return (
     <div className="EU-note">
@@ -21,6 +21,7 @@ const EUnoteProject = () => {
             <div className="image"><img src={EU_logo} alt="Zastava Europske unije"/></div>
         </a>
         <div className="text">Projekt je sufinancirala Europska unija iz Europskog fonda za regionalni razvoj.</div>
+        <div className="text">Sadržaj ove publikacije isključiva je odgovornost tvrtke {props.ime_tvrtke}</div>
     </div>
   )
 }

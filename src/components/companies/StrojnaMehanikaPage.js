@@ -3,9 +3,11 @@ import EUnoteProject from '../EUnoteProject';
 import Petrinja from '../../assets/Petrinja.jpg';
 
 const StrojnaMehanikaPage = () => {
+    const ime_tvrtke = "STROJNA MEHANIKA d.o.o.";
+
   return (
     <div className="main_content">
-        <EUnoteProject />
+        <EUnoteProject ime_tvrtke={ime_tvrtke}/>
         <h1>NOVI RAZVOJ U PETRINJI STROJNA MEHANIKA d.o.o.</h1>
         <h2>Kod projekta: KK.08.2.1.16.0133</h2>
         <h2>Naziv poziva: Podrška razvoju poduzetništva u gradu Petrinji</h2>
@@ -28,7 +30,7 @@ const StrojnaMehanikaPage = () => {
                 <p>Trajanje provedbe (mjeseci): 20</p>
             </div>
         </div>
-        <EUnoteProject />
+        <EUnoteProject ime_tvrtke={ime_tvrtke}/>
     </div>
     );
 }
