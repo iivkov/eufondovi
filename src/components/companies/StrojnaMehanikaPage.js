@@ -22,6 +22,7 @@ const StrojnaMehanikaPage = () => {
                 <h3>Informacije o troškovima</h3>
                 <p>Ukupni prihvatljivi troškovi (EUR): 207.246,00</p>
                 <p>Ukupna bespovratna sredstva (EUR): 176.159,10</p>
+                <p>Ukupna vrijednost projekta (EUR): 261.862,38</p>
             </div>
             <div className="box">
                 <h3>Vrijeme provedbe</h3>

@@ -22,6 +22,7 @@ const MalekinusicPage = () => {
                 <h3>Informacije o troškovima</h3>
                 <p>Ukupni prihvatljivi troškovi (EUR): 207.850,55</p>
                 <p>Ukupna bespovratna sredstva (EUR): 176.672,97</p>
+                <p>Ukupna vrijednost projekta (EUR): 262.466,49</p>
             </div>
             <div className="box">
                 <h3>Vrijeme provedbe</h3>

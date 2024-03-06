@@ -20,8 +20,9 @@ const PondtPage = () => {
                 Kroz aktivnost Marketing i promocija proizvoda i usluga Prijavitelj će povećati svoju vidljivost na mikro i makro tržištu, kao i na društvenim mrežama, a provedbom aktivnosti edukacije i stručnog osposobljavanja djelatnici Korisnika će steći nova znanja povezana s korištenjem novih roba koje se nabavljaju.</p>
             <div className="box">
                 <h3>Informacije o troškovima</h3>
-                <p>Ukupna vrijednost projekta (EUR): 266.799,30</p>
+                <p>Ukupni prihvatljivi troškovi (EUR): 212.180,64</p>
                 <p>Ukupna bespovratna sredstva (EUR): 180.353,54</p>
+                <p>Ukupna vrijednost projekta (EUR): 266.799,30</p>
             </div>
             <div className="box">
                 <h3>Vrijeme provedbe</h3>

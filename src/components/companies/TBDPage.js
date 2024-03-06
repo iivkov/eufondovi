@@ -18,6 +18,7 @@ const TBDPage = () => {
                 <h3>Informacije o troškovima</h3>
                 <p>Ukupni prihvatljivi troškovi (EUR): NNN.NNN,NN</p>
                 <p>Ukupna bespovratna sredstva (EUR): NNN.NNN,NN</p>
+                <p>Ukupna vrijednost projekta (EUR): NNN.NNN,NN</p>
             </div>
             <div className="box">
                 <h3>Vrijeme provedbe</h3>

@@ -22,6 +22,7 @@ const KabelOptikaPage = () => {
                 <h3>Informacije o troškovima</h3>
                 <p>Ukupni prihvatljivi troškovi (EUR): 209.364,52</p>
                 <p>Ukupna bespovratna sredstva (EUR): 177.959,84</p>
+                <p>Ukupna vrijednost projekta (EUR): 263.997,69</p>
             </div>
             <div className="box">
                 <h3>Vrijeme provedbe</h3>
