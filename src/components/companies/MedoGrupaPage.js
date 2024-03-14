@@ -95,7 +95,7 @@ const MedoPage = () => {
                     Složeni postupak provedbe svih nabava obavit će vanjski stručnjak, a proračunom je određena cijena njegovog rada.</p>
             </div>
             <div className="activity_box">
-                <h3>AKTIVNOST: 9. Promidžba i vidljivost ; u ovoj aktivnosti se nabavlja:</h3>
+                <h3>AKTIVNOST: 9. Promidžba i vidljivost; u ovoj aktivnosti se nabavlja:</h3>
                 <p>- Informiranje i vidljivost</p>
                 <p>OPIS: planirana je nabava novih roba i/ili usluga. Ostvarivanjem te nabave Prijavitelj će povećati svoju vidljivost na mikro 
                     i makro tržištu, kao i na društvenim mrežama. Djelatnici Prijavitelja će steći nova znanja povezana s korištenjem novih roba 
@@ -125,8 +125,7 @@ const MedoPage = () => {
                 <p>- tijekom provedbe: 2 (veoma mali utjecaj),</p>
                 <p>- nakon provedbe: 3 (mali utjecaj);</p>
                 <p>OPIS: doći će do povećanja onečišćenja tla zbog tehničkih voda koje nastaju tijekom rada i to radi
-                    povećanja poslova koje Prijavitelj izvodi. Novim nabavama će se smanjiti negativan utjecaj projekta na
-                    TLO.</p>
+                    povećanja poslova koje Prijavitelj izvodi. Novim nabavama će se smanjiti negativan utjecaj projekta na TLO.</p>
             </div>
             <div className="activity_box">
                 <h3>3. utjecaj na VODA:</h3>
@@ -141,8 +140,7 @@ const MedoPage = () => {
                 <p>- tijekom provedbe: 0 (nema utjecaja),</p>
                 <p>- nakon provedbe: 0 (nema utjecaja);</p>
                 <p>OPIS: ne će doći do bilo kakvog negativnog utjecaja rada i to radi povećanja poslova koje Prijavitelj
-                    izvodi. Novim nabavama će se smanjiti negativan utjecaj projekta na KULTURNA BAŠTINA.
-                    </p>
+                    izvodi. Novim nabavama će se smanjiti negativan utjecaj projekta na KULTURNA BAŠTINA.</p>
             </div>
             <div className="activity_box">
                 <h3>5. utjecaj na OTPAD:</h3>
@@ -150,8 +148,7 @@ const MedoPage = () => {
                 <p>- nakon provedbe: 2 (veoma mali utjecaj);</p>
                 <p>OPIS: doći će do povećanja stvaranja otpada koji će nastati tijekom rada i to radi povećanja poslova koje
                     Prijavitelj izvodi. Svakodnevno će se otpad selektirati i odlagati na za to predviđeno odlagalište. Novim
-                    nabavama će se smanjiti negativan utjecaj projekta na OTPAD.
-                    </p>
+                    nabavama će se smanjiti negativan utjecaj projekta na OTPAD.</p>
             </div>
             <div className="activity_box">
                 <h3>6. utjecaj na ZDRAVLJE:</h3>
