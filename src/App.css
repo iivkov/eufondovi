@@ -276,6 +276,18 @@ header {
   }
 }
 
+.article_box {
+  padding-top: 30px;
+  width: 100%;
+  /* text-align: center; */
+}
+
+@media (max-width: 767px) {
+  .box {
+    width: 100%; 
+  }
+}
+
 .table {
   margin-top: 1rem;
   width: 100%;

@@ -20,7 +20,7 @@ const SkelaProjektPage = () => {
             <div className="box">
                 <h3>Informacije o troškovima</h3>
                 <p>Ukupni prihvatljivi troškovi (EUR): 204.074,10</p>
-                <p>Ukupna bespovratna sredstva (EUR): 173.462,98</p>
+                <p>Ukupna bespovratna sredstva EU (EUR): 173.462,98</p>
                 <p>Ukupna vrijednost projekta (EUR): 258.494,53</p>
             </div>
             <div className="box">

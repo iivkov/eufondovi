@@ -21,7 +21,7 @@ const MedoPage = () => {
             <div className="box">
                 <h3>Informacije o troškovima</h3>
                 <p>Ukupni prihvatljivi troškovi (EUR): 212.549,87</p>
-                <p>Ukupna bespovratna sredstva (EUR): 180.667,39</p>
+                <p>Ukupna bespovratna sredstva EU (EUR): 180.667,39</p>
                 <p>Ukupna vrijednost projekta (EUR): 267.176,11</p>
             </div>
             <div className="box">

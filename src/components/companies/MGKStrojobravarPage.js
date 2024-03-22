@@ -21,7 +21,7 @@ const MGKStrojobravarPage = () => {
             <div className="box">
                 <h3>Informacije o troškovima</h3>
                 <p>Ukupni prihvatljivi troškovi (EUR): 210.554,78</p>
-                <p>Ukupna bespovratna sredstva (EUR): 178.971,56</p>
+                <p>Ukupna bespovratna sredstva EU (EUR): 178.971,56</p>
                 <p>Ukupna vrijednost projekta (EUR): 265.196,13</p>
             </div>
             <div className="box">

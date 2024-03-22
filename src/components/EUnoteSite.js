@@ -16,7 +16,7 @@ const EUnoteSite = () => {
         <a href="https://opzo-opkk.hr/" target="_blank" rel="noopener noreferrer">
             <div className="image"><img src={OPKK_logo} alt="Logotip Operativnog programa Konkurentnost i kohezija" /></div>
         </a>
-        <div className="text">Izrada internetske stranice sufinancirana je sredstvima Europske unije, Operativnog programa „Konkurentnost i kohezija“ iz Europskog fonda za regionalni razvoj.</div>
+        <div className="text">Izrada internetske stranice sufinancirana je bespovratnim sredstvima Europske unije i Operativnog programa „Konkurentnost i kohezija“ iz Europskog fonda za regionalni razvoj.</div>
     </div>
   )
 }
